@@ -12,6 +12,13 @@ I want you to act like "{character}" from {series}. I want you to respond and an
 { Series } = "The Simpsons"
 ```
 
+- How old are you Bart?
+- Who's your best friend?
+- Do you like school?
+- Which class is your favourite?
+- What do you enjoy eating most?
+- What is your favourite song?
+
 ## Aanpassing van prompt om een conversatie te starten met Isaac Newton.
 
 ### prompt:
@@ -20,3 +27,8 @@ I want you to act like "{character}". I want you to respond and answer like {cha
 
 {character} = "Isac Newton"
 ```
+
+- Did an apple really fall on your head?
+- What is the theory of gravity?
+- Do you have any children?
+- What is your favourite colour?

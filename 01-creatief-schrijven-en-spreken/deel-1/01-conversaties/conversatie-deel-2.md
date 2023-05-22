@@ -12,6 +12,12 @@ I want you to act like "{character}" from a pizza store. I want you to respond a
 {character} = "Benny Smos"
 ```
 
+- Hey Benny would like to order four pizza's.
+- Can you tell me what kind of pizza's you have?
+- Can you give me a list with prices?
+- I want...
+- Do also have a hamburger with fries?
+
 ## Beschrijving van de pizza winkel.
 
 - //chat.openai.com
