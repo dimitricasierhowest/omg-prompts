@@ -22,3 +22,7 @@ Cellen kunnen niet alleen communiceren met cellen van dezelfde soort, maar ook m
 Een orgaanstelsel is een groep samenwerkende organen met een specifieke functie voor het organisme.
 **
 ```
+
+
+vraag:
+Kun je ook verklaren waarom de roze olifanten oliebollen gooien naar de smurfen die frietjes eten terwijl ze de celwand bekladden met verf?
